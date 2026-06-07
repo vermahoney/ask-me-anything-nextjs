@@ -4,9 +4,9 @@ A modern anonymous messaging platform built with Next.js that allows users to re
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** https://your-project.vercel.app
+🔗 **Live Application:** https://ask-me-anything-nextjs-git-v-a47959-himanshus-projects-0725c532.vercel.app
 
-🔗 **GitHub Repository:** https://github.com/yourusername/anonymous-feedback-platform
+🔗 **GitHub Repository:**
 
 ---
 
@@ -190,9 +190,6 @@ src/
 
 ## 🤝 Connect With Me
 
-### Portfolio
-
-https://yourportfolio.vercel.app
 
 ### LinkedIn
 
