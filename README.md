@@ -6,7 +6,7 @@ A modern anonymous messaging platform built with Next.js that allows users to re
 
 🔗 **Live Application:** https://ask-me-anything-nextjs-git-v-a47959-himanshus-projects-0725c532.vercel.app
 
-🔗 **GitHub Repository:**
+🔗 **GitHub Repository:**https://github.com/vermahoney/ask-me-anything-nextjs
 
 ---
 
@@ -191,17 +191,6 @@ src/
 ## 🤝 Connect With Me
 
 
-### LinkedIn
-
-https://linkedin.com/in/your-profile
-
-### GitHub
-
-https://github.com/yourusername
-
-### Email
-
-[your-email@example.com](mailto:your-email@example.com)
 
 ---
 
